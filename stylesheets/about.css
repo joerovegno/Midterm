@@ -4,6 +4,10 @@ h1, h2, h3, h4 { color: #bd5248; font-family: Open Sans;}
 a { text-decoration: none;}
 p { color: #333; }
 
+body {
+    background-color: #ebebeb;}
+    
+
 /* 11 columns; 2 for sidebar 9 for cards && 6 rows */
 .cssgrid {
   display: grid;

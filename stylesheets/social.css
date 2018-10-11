@@ -38,6 +38,8 @@ p { color: #333; }
   grid-column: span 2;
   color: white;
 }
+body {
+    background-color: #ebebeb;}
 
 .item.one:hover {
   border-bottom: 0px solid rgba(0, 0, 0, 0.2);

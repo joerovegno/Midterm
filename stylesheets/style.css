@@ -4,6 +4,12 @@ h1, h2, h3, h4 { color: #bd5248; font-family: Open Sans;}
 a { text-decoration: none;}
 p { color: #333; }
 
+
+body {
+    background-color: #ebebeb;}
+.cards {
+  background-color: white;
+}
 /* 11 columns; 2 for sidebar 9 for cards && 6 rows */
 .cssgrid {
   display: grid;
@@ -48,6 +54,7 @@ p { color: #333; }
 /* Card Styling */
 .cards {
   margin: 1.2rem;
+  background-color: white;
 }
 
 .pugprice {
@@ -55,6 +62,8 @@ p { color: #333; }
   text-align: center;
   font-size: 1.25em;
   margin-top: -1.2em;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
 #logo {
@@ -81,6 +90,8 @@ p { color: #333; }
 
 #pugphone, #puginsta, #puginfo {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
 hr { margin: 2em; }
@@ -99,6 +110,8 @@ hr { margin: 2em; }
   color: #333;
   text-align: center;
   font-size: 1.25em;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
 
